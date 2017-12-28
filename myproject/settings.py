@@ -25,7 +25,7 @@ SECRET_KEY = '(h7nn^-ztuln=jafl24eb49%q$es%o5dwqc56ssh=e&qwunqv$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["qwerty2812.herokuapp.com"]
 
 
 # Application definition
